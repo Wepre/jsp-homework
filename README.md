@@ -1,7 +1,7 @@
 # jsp-homework 有需要的同学可以添加我的q，1771555693，验证消息备注github，无偿分享，请多多star，感谢大家。
 
 #### 介绍
-java网站 jsp项目 一个javaweb的总结仓库，在这里包含了大多数的期末网站主题，有需要的同学可以来看看。包括但不限于SSH,SpringBoot，javaweb，jsp技术等等。
+java网站 jsp项目100+ 一个javaweb的总结仓库，在这里包含了大多数的期末网站主题，有需要的同学可以来看看。包括但不限于SSH,SpringBoot，javaweb，jsp技术等等。
 学生成绩管理系统,超市仓库管理系统,jsp公司文档管理系统SSH在线学习平台jsp网上考试报名系统javaweb汽车租赁系统SH电影网源码javaweb网上人才招聘系统。
 
 
