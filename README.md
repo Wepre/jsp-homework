@@ -1,0 +1,131 @@
+# jsp-homework 有需要的同学可以添加我的q，1771555693，验证消息备注github，无偿分享，请多多star，感谢大家。
+
+#### 介绍
+java网站 jsp项目 一个javaweb的总结仓库，在这里包含了大多数的期末网站主题，有需要的同学可以来看看。包括但不限于SSH,SpringBoot，javaweb，jsp技术等等。
+学生成绩管理系统,超市仓库管理系统,jsp公司文档管理系统SSH在线学习平台jsp网上考试报名系统javaweb汽车租赁系统SH电影网源码javaweb网上人才招聘系统。
+
+
+# javaweb项目大作业。适用于javaweb课程的大作业，期末考试等，包含文档。每个文档里面有对应的数据库文件。喜欢的可以点个星哦
+
+## 项目列表 可按ctrl+f 进行网页的查找
+
+
+1. SSH小区物业管理系统
+1. SSH超市进销存系统
+1. SpringBoot+vue前后端分离的网络作业提交批改管理系统
+1. SpringBoot美食分享平台
+1. SpringBoot校园食堂管理系统
+1. SSH在线交流论坛系统
+1. SSH校园招聘系统
+1. SpringBoot+vue网上图书商城
+1. SSH+vue汽车租赁网站/系统
+1. SpringBoot+vue前后端分离的旅游推荐系统
+1. SpringBoot+vue前后端分离的校园社团管理系统
+1. SpringBoot+-vue在线购物商城
+1. Jweb学院社团管理系统
+1. JavaWeb求职招聘网
+1. SSH学生请假销假管理系统
+1. JavaWeb(SSH)税务申报管理系统
+1. JavaWeb在线打印管理系统
+1. JayaWeb高校毕业生去向跟踪管理系统
+1. JavaWeb茶叶在线销售购物商城
+1. JavaWeb高校学生信息交流平台
+1. SpringBoot+vue可视化学生成绩管理系统
+1. Springboot+vue电影售票系统团士
+1. JavaWeb宠物猫在线交易系统
+1. SpringBoot+vue前后端分离的学生信息管理系统
+1. SpringBoot+vue前后端分离的高校宿舍管理系统
+1. SSH快递管理系统学习案例分享
+1. SpringBoot+vue前后端分离校园招聘统
+1. SpringBoot+vue前后端分离教务管理系统
+1. SpringBoot校园二手交易平台
+1. JavaWeb网盘管理系统
+1. JavaWeb微课网
+1. JavaWeb手机专卖网
+1. javaweb(ssh)校园网络教学平台
+1. SpringMVC景点门票销售管理系统
+1. javawebi超市仓库管理系统
+1. javaweb在线鲜花销售系统
+1. javaweb婚恋交友网
+1. javaweb企业物流管理系统网站
+1. javaweb在线学习论坛
+1. javaweb班级管理系统
+1. javawebi音乐播放网
+1. javaweb(ssh)实验室设备管理
+1. javaweb在校大学生贷款管理系统
+1. javaweb(ssh)家教信息网
+1. javaweb(ssh)旅游信息管理系统
+1. javaweb共享单车租赁网案例
+1. SSH网上书店商城
+1. javaweb就业指导管理系统
+1. javaweb网上图书商城
+1. javaweb在线答疑网站
+1. javaweb药店管理系统
+1. jsp房屋租赁管理系统
+1. jsp公司文档管理系统
+1. SSH教务评价系统
+1. SSH汽车销售进销存管理系统
+1. SSH社区交友平台
+1. jsp-mvc银行客户关系管理系统
+1. SSH企业项目管理系统
+1. javawebi汽车票订购系统
+1. jsp公司文档管理系统
+1. SSH教务评价系统
+1. SSH汽车销售进销存管理系统
+1. SSH社区交友平台
+1. jsp-mvc银行客户关系管理系统
+1. Struts学生成绩管理系统
+1. SSH酒店客房预订管理系统
+1. SSH美食推荐展示网站
+1. SSH在线学习平台
+1. SSH员工培训管理系统
+1. jsp网上评教系统
+1. SSH通用在线投票系统
+1. jsp网上考试报名系统
+1. jsp-mc实验室预约管理
+1. SSH公交查询系统
+1. SSH资产管理系统
+1. SSH音像租赁管理系统
+1. jsp-mvc学生会日常事务管理系统
+1. jsp企业物流网站
+1. SSH摄影网
+1. SSI酒店预订管理系统
+1. SSI个人博客网站
+1. SSI在线课程管理系统(mven项目)
+1. SSH在线考试系统(mven项目)
+1. SSH在线考试系统(maven项目)
+1. springmvc学生宿舍管理系统
+1. springMVC图书管理系统
+1. SSH学生考勤管理系统
+1. javaweb企业门户网站
+1. javaweb企业办公自动化管理系统
+1. javaweb高校学生信息管理系统
+1. SSH网上鞋店购物商城
+1. java聊天室CS程序
+1. javaweb知心博客系统
+1. javaweb学生选课管理系统
+1. javaweb医院管理系统
+1. javaweb银行帐目管理信息系统
+1. javaweb同乡会网站
+1. javaweb农产品销售宣传网站
+1. javaweb新生报到注册系统
+1. javaweb售后服务管理系统
+1. javaweb精品课程教学网站
+1. javaweb酒店管理系统
+1. SSH体育赛事网上售票系统
+1. SSH人力资源管理系统
+1. SSH婚庆策划系统
+1. javaweb机票预订网站
+1. javaweb企业员工考勤管理系统
+1. SSH校园餐饮订餐系统
+1. SSH学生选课成绩管理系统
+1. SSH汽车销售网
+1. javaweb.人事与工资管理系统
+1. Javaweb旅游信息查询系统
+1. javaweb汽车租赁系统
+1. SSH电影网源码
+1. SSH在线聊天室系统
+1. javaweb网上人才招聘系统
+1. javawebl房屋租赁系统
+
+
